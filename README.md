@@ -14,3 +14,6 @@ Full Project on my Portfolio If you are interested check it out here: https://no
 ![Meta Votes](https://user-images.githubusercontent.com/124457780/226522588-074a27c2-fae7-4b6d-b2ba-5198cd9d8506.png)
 ![Yearly Gross](https://user-images.githubusercontent.com/124457780/226522590-47432040-7065-44f8-9cb1-9b6e80afc9df.png)
 ![Yearly Rating](https://user-images.githubusercontent.com/124457780/226522598-a34125dd-71ce-4f9f-9006-af0c781bbbfd.png)
+
+
+### FULL PROJECT LINK https://nocab-tech.github.io/portfolio/data-analysis/imdb.html
