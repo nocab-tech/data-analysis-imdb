@@ -5,7 +5,7 @@ This project served as an opportunity to expand my knowledge and skills in data 
 Based on extensive research into real-world questions and a thorough review of the CSV file, I established specific research questions to guide the analysis. Through this project, I demonstrate an understanding of data cleaning, visualization, and data analysis as a whole, further augmenting my proficiency in this field.
 
 
-Full Project on my Portfolio If you are interested check it out here: https://nocab-tech.github.io/portfolio/data-analysis/imdb.html
+### FULL PROJECT ON PORTFOLIO https://nocab-tech.github.io/portfolio/data-analysis/imdb.html
 
 
 ### Data Visualization
